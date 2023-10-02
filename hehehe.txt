@@ -3,3 +3,9 @@ cara update
 git add *
 git commit -m "----"
 git push
+
+add file
+git add *
+git commit -m "test"
+git branch -m main
+git add -u origin main
