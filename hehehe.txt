@@ -9,3 +9,55 @@ git add *
 git commit -m "test"
 git branch -m main
 git add -u origin main
+
+github
+
+log in github
+create a new reposity
+description: ini merupakan repo git pertama saya
+reposity name: contoh-repo
+public access
+add a readme file jangan dicentang
+.gitignore template = none
+choose a liscence = none
+
+create
+buat folder contoh-repo
+buka folder
+buka git bash di folder
+ketik code . pada git bash
+
+copy code pada browser git yg bernama " or create a new repository on the command line "
+paste pada terminal vscode
+
+git add analisis_data.ipynb pada terminal vscode
+git status
+git commit -m "added python notebook"
+git push origin main
+
+git commit -m "print hello"
+git push
+git innit pada terminal contoh repo 2
+git add .
+git commit -m "first commit"
+
+new reposity pada github
+reposity name: contoh-repo-2
+description: Ini merupakan contoh repo skenario ke-2
+add a readme file mati
+none
+none
+
+copy code pada github " or push an existing repository from "
+
+copy link kirim dalam bentuk HTTPS ke sir
+
+edit main.py pada github
+print("Gokil!")
+pilih commit changes
+commit message: update main.py
+
+git status pada terminal
+git pull origin main pada terminal
+git pulll origin main lagi pada terminal
+jika already upp to date berarti the code is already synchronized ._.
